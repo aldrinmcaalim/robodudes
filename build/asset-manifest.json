@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/robodudes/static/css/main.997fd0d6.chunk.css",
+    "main.js": "/robodudes/static/js/main.7c8ff52d.chunk.js",
+    "main.js.map": "/robodudes/static/js/main.7c8ff52d.chunk.js.map",
+    "runtime-main.js": "/robodudes/static/js/runtime-main.3bbe43b1.js",
+    "runtime-main.js.map": "/robodudes/static/js/runtime-main.3bbe43b1.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robodudes/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.47a6c386.chunk.js": "/robodudes/static/js/2.47a6c386.chunk.js",
+    "static/js/2.47a6c386.chunk.js.map": "/robodudes/static/js/2.47a6c386.chunk.js.map",
+    "index.html": "/robodudes/index.html",
+    "precache-manifest.e03b99d96af4147793c4812d9b27fc17.js": "/robodudes/precache-manifest.e03b99d96af4147793c4812d9b27fc17.js",
+    "service-worker.js": "/robodudes/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robodudes/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.997fd0d6.chunk.css.map": "/robodudes/static/css/main.997fd0d6.chunk.css.map",
+    "static/js/2.47a6c386.chunk.js.LICENSE.txt": "/robodudes/static/js/2.47a6c386.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bbe43b1.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.47a6c386.chunk.js",
+    "static/css/main.997fd0d6.chunk.css",
+    "static/js/main.7c8ff52d.chunk.js"
+  ]
+}
